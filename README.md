@@ -15,3 +15,16 @@
 - How to integrate an audio file in a webpage
 - How to embed external content
 - How to correctly structure an HTML page
+
+## 0x01 - Developer tools
+
+The projocet focuses on how to use the developer tools of the browser.
+
+## 0x02 - Advanced CSS
+
+In this project, we take ajourney to working with CSS and make the page look better.
+We will learn how to use different properties of CSS such as font-family, color, backgrounds, etc.,
+
+## 0x03 - Responsive design
+
+This project is target to make the Techium site responsive to all screens.
